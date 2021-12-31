@@ -1,0 +1,21 @@
+{
+  "short_name": "Naughty Safari",
+  "name": "Naughty Safari NFT Collection",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 256x256 128x128 96x96 64x64 48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/img/icon192-49aa1b44.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/icon512-b169fa88.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
